@@ -2,9 +2,9 @@
 
 ## `colemak_dh` и Русская `йцуке` адаптированая под переставленные клавиши
 
-[ссыль](./dictor__colemak_dh__keyboard)
+[dictor__colemak_dh__keyboard](./dictor__colemak_dh__keyboard)
 
 
 
 ## `colemak_dh` и Русская `Дворак` адаптированая под переставленные клавиши
-[ссыль](./dictor__colemak_dh__keyboard)
+[йцукен_dh](./йцукен_dh)
